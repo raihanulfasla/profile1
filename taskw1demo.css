@@ -1,0 +1,121 @@
+body{
+    background-color: rgb(199, 194, 194);
+
+}
+.image img{
+    border-radius:30px;
+    margin-left: 54px;
+    margin-top: 29px;
+}
+.one{
+    background-color:aliceblue;
+    width: 250px;
+    height: 571px;
+    border:1px solid rgb(90, 88, 88);
+    margin-left: 107px;
+    border-top-left-radius: 13px;
+    border-end-start-radius: 13px;
+}
+
+.ulflex li{
+    list-style-type: none;
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: .5px solid rgb(99, 96, 96);
+    flex-wrap: nowrap;
+    width: 220px;
+    height: 48px;
+    margin-left: -79px;
+    padding-left: 18px;
+    
+
+}
+.two{
+    background-color:aliceblue;
+    height: 571px;
+    width: 709px;
+    border:1px solid rgb(90, 88, 88);
+    margin-left: -670px;
+    padding-left:20px;
+    margin-right: 243px;
+    border-bottom-right-radius: 13px;
+    border-top-right-radius: 13px;
+}
+.main{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(199, 194, 194);
+    height: 626px;
+    width: 1333px;
+}
+.list{
+    margin: 20px;
+    
+        height: 464px;
+        width: 157px;
+        padding: 19px;
+}
+.input{
+    margin-left:10px;
+}
+.image{
+    align-items: center;
+    margin-left: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.first{
+    height:350px;
+    width:330px;
+}
+.second {
+    height:350px;
+    width:330px;
+    margin-left:-540px;
+}
+.ulflex li{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+.text{
+    margin-top:-114px;;
+}
+.text textarea{
+    width: 638px;
+   height: 100px;
+   padding:10px;
+   border-radius:4px;
+}
+.text1{
+    padding-left:10px ;
+}
+.button1{
+    background-color: blue;
+    height:40px;
+    width:100px;
+    border-radius: 5px;
+}
+.button2{
+    height:40px;
+    width:100px;
+    border-radius: 5px;
+}
+.p1,.p2,.p3,.p4,.p5,.p6{
+    
+height: 30px;
+width: 300px;
+border-radius:4px;
+}
+.lii li{
+    background-color: blue;
+}
+.h11{
+    margin-left: 10px;
+}
